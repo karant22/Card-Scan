@@ -82,22 +82,6 @@ Results Dashboard-
 ![Result](https://github.com/user-attachments/assets/580fec68-e857-40da-94fd-9a488dbf48d7)
             Comprehensive view of extracted statement data
 ________________________________________________________________________________________________________________________________________________________________________
-#Project Structure:
-Card-Scan/
-├── src/
-│   └── main.py               # Main Streamlit app
-├── data/
-│   ├── Axis Credit Card Statement.pdf
-│   ├── HDFC Credit Card Statement.pdf
-│   └── SBI Credit Card Statement.pdf
-├── outputs/
-│   ├── cardScan_analysis_*.csv  # Extracted results
-├── Screenshots        # Screenshots for README
-│   ├── home_page.png
-│   └── result_page.png
-├── requirements.txt          # Dependencies
-└── README.md
-________________________________________________________________________________________________________________________________________________________________________
 
 Card-Scan turns messy credit card statements into clear, structured data with just one upload.
 It’s a simple tool built to show how text extraction, pattern matching, and Streamlit can work together for practical financial automation.
