@@ -1,0 +1,2 @@
+Document,Institution,Account_Last4,Statement_Date,Statement_Period,Total_Due,Minimum_Due,Due_Date,Transaction_Count,Sample_Transaction_Date,Sample_Transaction_Type,Sample_Transaction_Description,Sample_Transaction_Amount
+Axis Credit Card Statment.pdf,Axis Bank,9876,05 Oct 2025,05 Sep 2025 to 04 Oct 2025,"INR 5,250.00",INR 500.00,25 Oct 2025,12,06-Sep-2025,DEBIT,NETFLIX,"INR 71,895.24"

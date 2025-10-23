@@ -1,0 +1,2 @@
+Document,Institution,Account_Last4,Statement_Date,Statement_Period,Total_Due,Minimum_Due,Due_Date,Transaction_Count,Sample_Transaction_Date,Sample_Transaction_Type,Sample_Transaction_Description,Sample_Transaction_Amount
+HDFC Credit card Statement.pdf,HDFC Bank,3456,01 Oct 2025,01 Sep 2025 to 30 Sep 2025,"INR 42,350.75","INR 1,500.00",15 Oct 2025,25,01-Sep-2025,DEBIT,ZOMATO,"INR 41,468.77"

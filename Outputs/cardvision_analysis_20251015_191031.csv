@@ -1,0 +1,2 @@
+Document,Institution,Account_Last4,Statement_Date,Statement_Period,Total_Due,Minimum_Due,Due_Date,Transaction_Count,Sample_Transaction_Date,Sample_Transaction_Type,Sample_Transaction_Description,Sample_Transaction_Amount
+SBI Credit Card Statement.pdf,SBI Card,6789,28 Sep 2025,28 Aug 2025 to 27 Sep 2025,"INR 12,150.00","INR 1,215.00",18 Oct 2025,18,28-Aug-2025,DEBIT,AMAZON A,"INR 90,792.48"
