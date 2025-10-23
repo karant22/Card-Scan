@@ -63,14 +63,45 @@ ________________________________________________________________________________
 - Statement Period: 01 Aug 2025 – 30 Aug 2025
 - Total Due: ₹12,450.00
 - Due Date: 15 Sep 2025
+
+Sample output extracted data saved in CSV Files:
+| Document                       | Institution | Billing Date | Total Due | Transactions |
+| ------------------------------ | ----------- | ------------ | --------- | ------------ |
+| Axis Credit Card Statement.pdf | Axis Bank   | 25 Oct 2025  | ₹12,500   | 24           |
+
 ________________________________________________________________________________________________________________________________________________________________________
 Screenshots:
 
 Home Page-
-![HomePage](https://github.com/user-attachments/assets/1e630d41-fa12-4333-947d-3b2797d0c846)
-Clean and intuitive upload interface
 
-Results Dashboard
+![HomePage](https://github.com/user-attachments/assets/6c73e57e-6b6b-4fd9-9918-6b54f92e442f)
+            Clean and intuitive upload interface
 
-![Result](https://github.com/user-attachments/assets/ac79aedb-8951-4a89-8194-bff580c86896)
-Comprehensive view of extracted statement data
+Results Dashboard-
+
+![Result](https://github.com/user-attachments/assets/580fec68-e857-40da-94fd-9a488dbf48d7)
+            Comprehensive view of extracted statement data
+________________________________________________________________________________________________________________________________________________________________________
+#Project Structure:
+Card-Scan/
+├── src/
+│   └── main.py               # Main Streamlit app
+├── data/
+│   ├── Axis Credit Card Statement.pdf
+│   ├── HDFC Credit Card Statement.pdf
+│   └── SBI Credit Card Statement.pdf
+├── outputs/
+│   ├── cardScan_analysis_*.csv  # Extracted results
+├── Screenshots        # Screenshots for README
+│   ├── home_page.png
+│   └── result_page.png
+├── requirements.txt          # Dependencies
+└── README.md
+________________________________________________________________________________________________________________________________________________________________________
+
+Card-Scan turns messy credit card statements into clear, structured data with just one upload.
+It’s a simple tool built to show how text extraction, pattern matching, and Streamlit can work together for practical financial automation.
+
+If you find this project useful or have ideas to improve it, feel free to open an issue or contribute!
+
+
